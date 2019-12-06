@@ -1,7 +1,7 @@
-# Pacman_in_VB
-**Prerequisities**
-Microsoft Visual Basic 
-**Steps to run**
-1.Clone or download repository
-2.Open form *frmPacMan*
-3.Run the file with F5
+# Pacman_in_VB<br />
+**Prerequisities**<br />
+Microsoft Visual Basic <br />
+**Steps to run**<br />
+1.Clone or download repository<br />
+2.Open form *frmPacMan*<br />
+3.Run the file with F5<br />
